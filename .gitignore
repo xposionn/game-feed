@@ -1,0 +1,6 @@
+/target
+*.pcap
+*.pcapng
+*.etl
+*.log
+.env
